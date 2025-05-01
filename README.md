@@ -1,1 +1,1 @@
-#This project helps people veiw github profiles.
+# This project helps people veiw github profiles.
